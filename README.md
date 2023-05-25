@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MyBike landing page
+
+MyBike landing page consists of the header with navigation menu, compare bikes section, gallery section, contact section with a form and contact information in it and footer. The page is implemented using the following technologies: HTML, CSS, JS, BEM, Sass.
+
+ Mockup: - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+
+ Preview: [DEMO](https://kbekher.github.io/mybike_landing/)
+
