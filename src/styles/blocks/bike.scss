@@ -1,4 +1,7 @@
 .bike {
+  display: flex;
+  flex-direction: column;
+
   &__photo {
     display: block;
     margin: 0 auto 32px;
@@ -18,7 +21,8 @@
 
   &__paragraph {
     @extend %section-paragraph;
-
+    
+    flex-grow: 1;
     margin: 8px 0 16px;
   }
 
